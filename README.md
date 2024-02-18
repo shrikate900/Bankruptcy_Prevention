@@ -1,5 +1,8 @@
 # Bankruptcy_Prevention
 
+## Introduction
+This is a machine learning project that predicts the bankruptcy of a company using various financial features. The project includes data preprocessing, model selection, and evaluation. The best-performing model has an accuracy of 99.60%.
+
 ## Objective
 
 This is a classification project, since the variable to predict is binary (bankruptcy or non-bankruptcy).  The goal here is to model the probability that a business goes bankrupt from different features.
