@@ -1,4 +1,4 @@
-# Bankruptcy_Prevention
+# Bankruptcy Prevention Project
 
 ## Introduction
 This is a machine learning project that predicts the bankruptcy of a company using various financial features. The project includes data preprocessing, model selection, and evaluation. The best-performing model has an accuracy of 99.60%.
